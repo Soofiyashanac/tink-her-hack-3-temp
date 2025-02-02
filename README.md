@@ -1,99 +1,58 @@
-# [Project Name] 🎯
+# [HabiTreck] 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [soofiyashana]
 
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 1: [soofiya.nizamudhin] - [EMEA COLLEGE  OF ARTS AND SCIENCE]
+- Member 2: [Shana.c] - [EMEA COLLEGE OF ARTS AND SCIENCE]
+
 
 ### Hosted Project Link
 [mention your project hosted project link here]
 
 ### Project Description
-[2-3 lines about what your project does]
+[HabiTreck is a website which deals with household expenses tracking and analysing thus,providing an online platform to preview the expenses and day to day household chores.including pantry,lavotory,electricity.irrigation,grocery,garage , lawn maintainance and other mandatory expenses]
 
 ### The Problem statement
-[What ridiculous problem are you solving?]
-
+[in this era,where offline analysis and transactions are very time consuming and complicating,we introduce,HabiTreck,where everything lies under your fingertips.]
 ### The Solution
-[How are you solving it? Keep it fun!]
+[creating a website which provides lists of each and every bills that happend in your home.
+also providing a space for e-transaction.]
 
 ## Technical Details
 ### Technologies/Components Used
-For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+For software:
+-chatGpt
+-
 
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
 
 ### Implementation
-For Software:
-# Installation
-[commands]
+For Software:html
 
 # Run
-[commands]
+[open index.html in any latest browser]
 
 ### Project Documentation
 For Software:
+HTML,CSS,
 
-# Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+# ![/Screenshots/] (Screenshot 2025-02-02 094808)*shows developing in github*
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+![/screenshots/](screenshot 2025-02-02 094407)*shows developing in readme.md*
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
-
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
-
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Team](Add photo of your team here)
+![/Screenshot/](Screenshot 2025-02-02 094808)
+*developing in github*
 
 
-![Components](Add photo of your components here)
-*List out all components shown*
 
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
-
-### Project Demo
-# Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
-
-# Additional Demos
-[Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- [shana.c]: [html webpage creating]
+- [soofiya.N]:[IMAGE COLLECTING AND CREATING ]
 
----
+
+
 Made with ❤️ at TinkerHub
