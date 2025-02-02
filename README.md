@@ -39,11 +39,11 @@ For Software:html
 For Software:
 HTML,CSS,
 
-# ![/Screenshots/] (Screenshot 2025-02-02 094808)*shows developing in github*
+![Screenshots1](screenshots/Screenshot1.png) *shows developing in github*
 
-![/screenshots/](screenshot 2025-02-02 094407)*shows developing in readme.md*
+![screenshots2](screenshots/Screenshot2.png) *shows developing in readme.md*
 
-![/Screenshot/](Screenshot 2025-02-02 094808)
+![Screenshot3](screenshots/Screenshot3.png)
 *developing in github*
 
 
